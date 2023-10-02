@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(62, 201, 220);
+}
+
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 48px;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+footer a {
+  margin: 0 10px;
+  color: green;
+}
+
+footer {
+  text-align: center;
+  display: block;
+}
+
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.contact-link:hover {
+  color: pink;
+}
+
+.photo-link:hover {
+  color: pink;
+}
+
+.homepage-link:hover {
+  color: pink;
+}
